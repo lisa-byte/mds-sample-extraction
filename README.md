@@ -52,7 +52,7 @@ Draw polygons on the plot; points inside (or on the boundary) are selected. Sele
 
 ## Troubleshooting
 - **No points appear**  
-  - `color_group` doesn’t match any column in the key file (should be e.g. `group` & `group_color`).  
+  - `color group` doesn’t match any column in the key file (should be e.g. `group` & `group_color`).  
   - `Taxon` values don’t overlap between matrix and key (check spelling/case).  
 
 - **“Cannot correctly read … Expect TASSEL IBS.”**  
