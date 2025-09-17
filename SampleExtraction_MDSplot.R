@@ -42,7 +42,7 @@ lapply(packages, library, character.only = TRUE)
 
 # ============================ User Config =====================================
 
-PERSONAL_DIRECTORY <- "/enter_directory/example_data_region"  # <<< EDIT
+PERSONAL_DIRECTORY <- "/enter_directory/example_data_region"  # <<< EDIT (obligatory)
 propmis <- 0.8             # keep samples with 'proportion missing' < propmis
 color_group <- "region"        # key column for colors; needs "<group>_color"
 
